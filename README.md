@@ -33,7 +33,7 @@ Since every website is unique, we suggest you add your own flair to the lion. We
 ```html
 <div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://cs.utdring.com/#your-site-here?nav=prev">←</a>
-    <a href="https://cs.utdring.com/#your-site-here" target="_blank">
+    <a href="https://cs.utdring.com/#your-site-here" target="">
         <img src="https://cs.utdring.com/icon.black.svg" alt="CS Webring" style="width: 24px; height: auto; opacity: 0.8;"/>
     </a>
     <a href="https://cs.utdring.com/#your-site-here?nav=next">→</a>
@@ -46,7 +46,7 @@ Since every website is unique, we suggest you add your own flair to the lion. We
 ```jsx
 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
     <a href='https://cs.utdring.com/#your-site-here?nav=prev'>←</a>
-    <a href='https://cs.utdring.com/#your-site-here' target='_blank'>
+    <a href='https://cs.utdring.com/#your-site-here' target=''>
         <img
             src='https://cs.utdring.com/icon.black.svg'
             alt='CS Webring'
